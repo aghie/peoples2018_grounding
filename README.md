@@ -10,8 +10,13 @@ PEOPLES2018 (co-located with NAACL HLT 2018) - The 2nd Workshop on Computational
 
 The usage of part-of-day nouns, such as 'night', and their time-specific greetings ('good night'), varies across languages and cultures. This paper showed the possibilities that Twitter offers for studying the semantics of these terms and its variability between countries. We mine a worldwide sample of multilingual tweets with temporal greetings, and study how their frequencies vary in relation with local time. The results provide insights into the semantics of these temporal expressions and the cultural and sociological factors influencing their usage.
 
-![ENERGY-CHART](sample-images/energy_greetings_spain.pdf "Energy chart for Part-of-Day nouns in Spain (Spanish language)")
+# Example
 
+The first figure shows a greeting area chart for the USA, showing how 'good evening' and 'good afternoon' are well differentiated, with the transition happening over 16:30. This contrasts to countries such as Spain (the second figure), where the language has a single word ('tarde') for 'evening' and 'afternoon', whose greeting spans from over 14:00, as the morning ends late, to 21:00. 
+
+![usa-en-energy](sample-images/energy_greetings_usa_en.png "Energy chart for Part-of-Day nouns in the United States (English)")
+
+![spain-es-energy](sample-images/energy_greetings_spain_es.png "Energy chart for Part-of-Day nouns in Spain (Spanish)")
 
 # Resources
 
