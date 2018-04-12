@@ -10,7 +10,7 @@ PEOPLES2018 (co-located with NAACL HLT 2018) - The 2nd Workshop on Computational
 
 The usage of part-of-day nouns, such as 'night', and their time-specific greetings ('good night'), varies across languages and cultures. This paper showed the possibilities that Twitter offers for studying the semantics of these terms and its variability between countries. We mine a worldwide sample of multilingual tweets with temporal greetings, and study how their frequencies vary in relation with local time. The results provide insights into the semantics of these temporal expressions and the cultural and sociological factors influencing their usage.
 
-[[/sample-images/energy_greetings_spain.pdf|Energy plot for Part-of-Day nouns in Spain]]
+![ENERGY-CHART](sample-images/energy_greetings_spain.pdf "Energy chart for Part-of-Day nouns in Spain (Spanish language)")
 
 
 # Resources
